@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: src/search/Main.java
+    visible: true
+    learner_created: false
+  - name: test/SearchEngineTests.java
+    visible: false
+    learner_created: false
+  - name: test/SimpleSearchEngineTest.java
+    visible: false
+    learner_created: false
+  - name: src/search/names.txt
+    visible: true
+    learner_created: true
+  - name: src/search/SearchEngine/Search.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/5499#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 31 Jan 2025 07:23:10 UTC"
+record: 4
